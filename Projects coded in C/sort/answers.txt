@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: It takes significantly less time to sort sorted50000.txt than it does reversed50000.txt - Bubble sort is able to recognise when a list is already sorted and quit
+
+sort2 uses: Merge Sort
+
+How do you know?: It takes the least time to sort the longest lists and as the size of the list increases, its sort time remains relatively low
+
+sort3 uses: Selection Sort
+
+How do you know?: It takes approximately the same time to sort sorted50000.txt as it does to sort reversed50000.txt - O and Ω are almost the same
